@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent-Native Remote"
+  short_description: "让 Agent 原生操作远程电脑，无需终端文本转译"
+  default_prompt: "Use $agent-native-remote to name and connect the remote target, then verify it through structured MCP tools."
